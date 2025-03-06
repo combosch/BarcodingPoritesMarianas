@@ -1,0 +1,19 @@
+Island	Population	Habitat	1-P. annae - P. evermanni-like	3-P. lutea	6-P. lobata-like	7-P. murrayensis	8-P. australiensis	9-P. australiensis
+Guam	Jimmy Dees	Backreef	0	2	0	5	7	5
+Guam	Marine Lab	Backreef	0	1	0	3	5	4
+Guam	Meritzo Pier	Backreef	4	1	0	3	3	2
+Guam	Fouha - Forereef	Forereef	1	4	0	2	5	8
+Guam	Fouha - River Delta	RiverDelta	0	2	0	27	0	0
+Guam	Inarahan - Forereef	Forereef	1	9	2	3	8	0
+Guam	Inarahan - River Delta	RiverDelta	0	2	0	13	11	0
+Guam	Talo'fo'fo - Forereef	Forereef	0	3	4	0	15	1
+Guam	Talo'fo'fo - River Delta	RiverDelta	0	1	0	18	3	0
+Guam	Ritidian - Forereef	Forereef	1	4	1	1	19	0
+Rota	Teneto Village	Backreef	1	3	0	5	6	0
+Rota	Teneto Village	Forereef	1	14	0	3	11	0
+Tinian	Two Corals Reef	Forereef	0	2	2	2	16	0
+Saipan	PauPau Lagoon	Backreef	0	1	10	1	9	0
+Saipan	PauPau Lagoon	Forereef	0	11	0	2	9	0
+Sarigan	Sarigan1	Forereef	0	18	0	1	6	0
+Pagan	Pagan1	Forereef	2	10	2	2	5	0
+Maug	Maug1	Forereef	0	17	4	2	0	0
